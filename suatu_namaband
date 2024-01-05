@@ -1,0 +1,5 @@
+#program untuk bikin nama band kamu
+city = str(input("Dimana kamu tinggal? "))
+genk = str(input("Siapa nama sahabat dekat kamu? "))
+band = city +' '+ genk
+print(f"Nama band kamu adalah: {band}")
